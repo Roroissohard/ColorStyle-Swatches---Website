@@ -1,0 +1,12 @@
+.color-swatch {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 5px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+.color-swatch:hover {
+    border: 2px solid #000;
+}
